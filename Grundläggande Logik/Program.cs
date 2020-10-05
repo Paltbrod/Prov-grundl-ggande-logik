@@ -29,6 +29,10 @@ namespace Grundläggande_Logik
                 {
                     Console.WriteLine("Jag sa ett nummer mellan 0-10 ");
                 }
+                if (x != "5")
+                {
+                    Console.WriteLine("inte rätt");
+                }
 
 
 
